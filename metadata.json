@@ -1,0 +1,6 @@
+{
+  "name": "MND",
+  "description": "MND Digital Agency - Website Design & Development (Code. Create. Elevate.)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
